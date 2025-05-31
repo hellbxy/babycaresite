@@ -1,4 +1,4 @@
-# E-commerce Website
+# Anura Baby Care
 
 This project is an e-commerce website designed to help businesses sell their products online.
 
@@ -11,10 +11,6 @@ During the COVID-19 pandemic, many businesses faced challenges due to lockdowns 
 *   **Ensure business continuity:** By having an online presence, businesses could maintain their operations and revenue streams during a difficult time.
 
 This website is built using HTML, CSS, and JavaScript. It includes features for browsing products, adding items to a cart, and making purchases.
-
-## Getting Started
-
-To use this project, simply clone the repository and open the `index.html` file in your web browser.
 
 ## Website Structure
 
@@ -39,3 +35,5 @@ This website is built using a combination of front-end technologies:
 *   **PHP (Hypertext Preprocessor):** The presence of `contact.php` and `message.php` strongly indicates that PHP is used on the server-side, likely for handling contact form submissions or other dynamic interactions.
 
 The project also includes a `scss/` directory, suggesting that **Sass (Syntactically Awesome Style Sheets)**, a CSS preprocessor, was used during development for more maintainable and organized stylesheets.
+
+Kusal Isiwara 2022© All rights reserved.
